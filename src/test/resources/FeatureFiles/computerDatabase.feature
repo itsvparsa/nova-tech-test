@@ -29,15 +29,3 @@ Feature: Computer database
     And the user clicks on "ACE" computer link from list
     When the user delete the entry
     Then the computer successfully deleted from database
-
-
-
-
-
-
-
-
-
-
-
-

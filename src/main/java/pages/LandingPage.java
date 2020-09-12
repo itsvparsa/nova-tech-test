@@ -36,7 +36,6 @@ public class LandingPage {
 
     public int getTotalNumberOfComputers() {
         return Integer.parseInt(extractInt(totalNumberOfComputers.getText()));
-
     }
 
     static String extractInt(String str) {
@@ -65,6 +64,3 @@ public class LandingPage {
     }
 
 }
-
-
-
